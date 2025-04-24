@@ -2,7 +2,7 @@
 
 🎯 **Senior Test Automation Engineer** with 13+ years of experience  
 🧪 Specialized in Selenium, Playwright, API Testing (Karate, Postman), CI/CD  
-🌎 Passionate about building scalable frameworks and contributing to open-source  
+🌎 Passionate about building scalable frameworks  
 
 ---
 
