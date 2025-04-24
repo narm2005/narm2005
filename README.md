@@ -42,7 +42,7 @@ Here are some of my recent articles on Medium:
 - [What makes the Builder Pattern ideal for using Faker in test automation design?](https://medium.com/@narmadha2005/why-use-builder-pattern-with-faker-while-designing-test-automation-415752036132?source=user_profile_page)
 - [BDD in Real Projects – Using Cucumber with Playwright](https://medium.com/your-article-link)
 
-➡️ Follow me on [Medium]([https://medium.com/@narmadha2005]) for more!
+➡️ Follow me on [Medium](https://medium.com/@narmadha2005) for more!
 
 
 ### 📫 Contact Me
