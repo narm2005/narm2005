@@ -40,7 +40,6 @@ Here are some of my recent articles on Medium:
 
 - [Building a Scalable API Testing Framework Using Karate DSL](https://medium.com/your-article-link)
 - [What makes the Builder Pattern ideal for using Faker in test automation design?](https://medium.com/@narmadha2005/why-use-builder-pattern-with-faker-while-designing-test-automation-415752036132?source=user_profile_page)
-- [Automating Visual Testing with Applitools + Selenium](https://medium.com/your-article-link)
 - [BDD in Real Projects – Using Cucumber with Playwright](https://medium.com/your-article-link)
 
 ➡️ Follow me on [Medium]([https://medium.com/@narmadha2005]) for more!
