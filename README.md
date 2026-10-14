@@ -1,51 +1,38 @@
-# 👋 Hi there, I'm Narmadha Palanisamy!
+# Hi, I'm Narmadha Palanisamy
 
-🎯 **Senior Test Automation Engineer** with 13+ years of experience  
-🧪 Specialized in Selenium, Playwright, API Testing (Karate, Postman), CI/CD  
-🌎 Passionate about building scalable frameworks  
+**Senior Test Automation Engineer** · 15+ years in software and quality engineering · Rochester, NY
 
----
+I build test automation that teams trust: Playwright and Cucumber/BDD frameworks, API test suites, and CI/CD quality gates. Most recently I've worked on Salesforce Communications Cloud and Amazon Connect at Capital One. I use AI tools (Claude, GitHub Copilot) every day, and I built and launched my own AI-powered SaaS product, so I've seen how bugs reach users from both sides.
 
-### 🛠️ Tech Stack
+## Featured work
 
-- **Languages:** Python, Java, JavaScript, Ruby, Shell
-- **Frameworks:** Selenium, Playwright, Cucumber, Pytest, Karate
-- **DevOps:** Jenkins, GitHub Actions, Docker, AWS Lambda
-- **Tools:** Postman, Applitools, Allure, JIRA
+### SlickReceipts: AI receipt-to-spreadsheet SaaS
+[Live app](https://pixel-to-spreadsheet-convert.onrender.com) · [Front end](https://github.com/narm2005/pixel-to-spreadsheet-convert) · [API](https://github.com/narm2005/receipt2Xcl)
 
----
+A freemium SaaS that turns photos of receipts into Excel, CSV and JSON using OCR and an LLM. I designed, built and tested it end to end.
 
-### 📂 Highlighted Projects
+- **Stack:** React + TypeScript, Supabase (Postgres, Auth, Storage, Edge Functions), Python FastAPI, Google Cloud Vision, LangChain + DeepSeek, Lemon Squeezy billing
+- **Testing:** Playwright E2E suite with a network-level Supabase mock and page objects; pytest API suite; an LLM accuracy evaluation that scores extraction against hand-checked receipts; GitHub Actions CI with a daily live-site smoke test
+- **QA findings:** [14 defects documented](https://github.com/narm2005/pixel-to-spreadsheet-convert/blob/main/docs/qa-findings.md) with reproduction steps, user impact and a guarding test for each
 
-🔹 [Karate-API-Framework-Starter](https://github.com/narm2005/APIAutomationKarate)  
-A Karate DSL-based API testing framework with token handling, YAML data, and Allure reporting.
+### Karate API test framework
+[APIAutomationKarate](https://github.com/narm2005/APIAutomationKarate): API testing with Karate DSL, OAuth2 client-credentials token handling and environment-based configuration.
 
-🔹 [Selenium-Java-Cucumber-BDD](https://github.com/narm2005/SeleniumBDDJava)  
-Scalable BDD framework using Page Object Model, TestNG, and reporting integrations.
+## Toolbox
 
-🔹 [Python-Automation-Suite](https://github.com/narm2005/PythonProjects)  
-End-to-end automation using Selenium Python, Pytest, and custom HTML reports.
+| | |
+|---|---|
+| **UI automation** | Playwright, Selenium WebDriver, Cucumber/BDD, Watir, Applitools |
+| **API testing** | Karate, Postman, Rest Assured, pytest + httpx |
+| **Languages** | TypeScript/JavaScript, Python, Java, Ruby, SQL/SOQL |
+| **Platforms** | Salesforce (Communications Cloud, Flows, Apex), Amazon Connect, Supabase, AWS |
+| **CI/CD** | GitHub Actions, Jenkins, Docker, Git |
+| **AI** | Claude, GitHub Copilot, LangChain, LLM output evaluation |
 
----
+## Writing
 
-### 📊 GitHub Stats
+- [Why use the Builder pattern with Faker when designing test automation](https://medium.com/@narmadha2005/why-use-builder-pattern-with-faker-while-designing-test-automation-415752036132)
 
-![Narmadha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=narm2005&show_icons=true&theme=default)
+## Contact
 
----
-
-## ✍️ Blog Posts
-
-Here are some of my recent articles on Medium:
-
-- [Building a Scalable API Testing Framework Using Karate DSL](https://medium.com/your-article-link)
-- [What makes the Builder Pattern ideal for using Faker in test automation design?](https://medium.com/@narmadha2005/why-use-builder-pattern-with-faker-while-designing-test-automation-415752036132?source=user_profile_page)
-- [BDD in Real Projects – Using Cucumber with Playwright](https://medium.com/your-article-link)
-
-➡️ Follow me on [Medium](https://medium.com/@narmadha2005) for more!
-
-
-### 📫 Contact Me
-
-- [LinkedIn](https://www.linkedin.com/in/narmadhap/)
-- 📧 narmadha2005@gmail.com
+[LinkedIn](https://www.linkedin.com/in/narmadhap/) · narmadha2005@gmail.com · Open to senior QA automation / SDET roles
